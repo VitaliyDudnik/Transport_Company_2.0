@@ -2,11 +2,11 @@
 RestFull API for cargo transport company.
 
 implementing 
-spring boot, 
+Spring boot, 
 AspectJ,
 Caching,
 Jasypt encryption,
-interceptors.
+Interceptors.
 
 
 Data base: postgreSQL
